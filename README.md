@@ -1,6 +1,6 @@
 # Magento 2 Barclaycard Payments
 
-[Magento 2 Barclaycard Payments](https://meetanshi.com/magento-2-barclaycard-payments.html) extension to allow Magento 2 store owners to accept secure online payments through UK's Barclaycard Payment gateway.
+***[Magento 2 Barclaycard Payments](https://meetanshi.com/magento-2-barclaycard-payments.html)*** extension to allow Magento 2 store owners to accept secure online payments through UK's Barclaycard Payment gateway.
 
 Magento 2 Barclaycard Payments supports accepting two types of payments: ePDQ Direct payment and ePDQ hosted payment. The ePDQ direct payment captures payments on site. The ePDQ hosted payment enables checkout using a hosted payment page for secure transactions using 3D secure and CVC verification.
 
